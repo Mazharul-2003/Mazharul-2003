@@ -46,7 +46,7 @@ My goal is to become a skilled and impactful **Software Engineer**, *In shaa All
 ### 📫 Let's Connect  
 <p>
   <a href="mailto:mazhar.islam.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/md-mazharul-islam-hridoy-ba047b395"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/md-mazharul-islam-hridoy-ba047b395"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Mazharul-2003"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
